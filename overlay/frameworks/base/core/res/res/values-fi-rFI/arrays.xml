@@ -18,11 +18,4 @@
 */
 -->
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
-
-    <!-- Defines the shutdown options shown in the reboot dialog. -->
-    <array name="shutdown_reboot_options">
-        <item>Käynnistä uudelleen</item>
-        <item>Recovery</item>
-    </array>
-
 </resources>

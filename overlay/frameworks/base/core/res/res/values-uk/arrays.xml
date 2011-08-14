@@ -2,9 +2,5 @@
 
 <resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
 
-    <array name="shutdown_reboot_options">
-        <item>Перезавантажити</item>
-        <item>Реж. відновлення</item>
-    </array>
 
 </resources>

@@ -21,11 +21,6 @@
 
 
 
-    <!-- Defines the shutdown options shown in the reboot dialog. -->
-    <array name="shutdown_reboot_options">
-        <item>Riavvia</item>
-        <item>Recovery</item>
-    </array>
 
 
 </resources>
